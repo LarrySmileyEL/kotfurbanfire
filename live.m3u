@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:-1,KOTF UrbanFireTV
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=100000000
 http://live-h1.frontlayer.net/fl816024/live/chunks.m3u8
